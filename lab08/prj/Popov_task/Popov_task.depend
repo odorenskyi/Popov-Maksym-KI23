@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1711659609 source:d:\unik\popov_task\main.cpp
+	<iostream>
+	<cmath>
+	<windows.h>
+	<locale.h>
+	<conio.h>
+	<iomanip>
+
+1711578762 d:\unik\popov_task\modulespopov.h
+
+1712075959 source:d:\unik\tipatask\main.cpp
+	<iostream>
+	<cmath>
+	<locale.h>
+	<conio.h>
+
