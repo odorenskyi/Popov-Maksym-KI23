@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712953177 source:d:\prj\popov_task\main.cpp
+	<iostream>
+	<cctype>
+	<clocale>
+	"ModulesPopov.h"
+

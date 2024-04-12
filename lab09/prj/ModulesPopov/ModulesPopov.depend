@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712931103 source:d:\prj\modulespopov\main.cpp
+	<cmath>
+	<string>
+	"ModulesPopov.h"
+
