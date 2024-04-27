@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1714235388 source:d:\prj\modulespopov\main.cpp
+	<iostream>
+	<locale>
+	<fstream>
+	<string>
+	<regex>
+	<chrono>
+	<ctime>
+	<cmath>
+	"ModulesPopov.h"
+

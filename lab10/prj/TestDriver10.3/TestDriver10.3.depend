@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1714236743 source:d:\prj\testdriver10.3\main.cpp
+	<iostream>
+	<fstream>
+	<locale>
+	<cmath>
+	<bitset>
+	"ModulesPopov.h"
+
