@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1716030689 source:c:\users\deffe\onedrive\Робочий стіл\lab11\modulespopov\main.cpp
+	<iostream>
+	<locale>
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"ModulesPopov.h"
+
