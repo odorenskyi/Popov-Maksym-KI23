@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1716581577 source:c:\users\deffe\onedrive\Робочий стіл\prj\teacher\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<cstring>
+	<cmath>
+	"ModulesPopov.h"
+
